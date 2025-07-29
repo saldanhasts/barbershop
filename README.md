@@ -15,13 +15,21 @@
 ## 🚀 Tecnologias
 
 HTML5 e CSS3
+<br>
 JavaScript Vanilla (puro)
+<br>
 Responsividade com Media Queries
+<br>
 Menu Hamburguer com animação suave
+<br>
 Carrossel Automático
+<br>
 Parallax Effect (CSS e JS)
+<br>
 Google Fonts (Poppins)
+<br>
 Font Awesome Icons
+<br>
 Git e GitHub para versionamento
 
 ## 💻 Projeto
