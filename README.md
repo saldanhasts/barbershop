@@ -52,4 +52,4 @@ O projeto conta com:
 
 <h2>📌 Autor </h2>
 
-Desenvolvido por Marcus Vinícius Saldanha 💻.
+Desenvolvido por Marcus Vinícius Saldanha 💻
