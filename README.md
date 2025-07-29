@@ -3,7 +3,8 @@
 <p align="center"> Desenvolvido após uma percepção de como muitos negócios locais (barbearias), ainda deixam de aproveitar o digital para atrair clientes.<br/>
 </p>
 
-<p  align="center"> O site simula um modelo de negócio para barbearias, oferecendo planos, comodidades e um visual profissional para apresentar o serviço de forma elegante. </p>
+<p  align="left"> O site simula um modelo de negócio para barbearias, oferecendo planos, comodidades e um visual profissional para apresentar o serviço de forma elegante.
+</p>
 
 <br>
 
