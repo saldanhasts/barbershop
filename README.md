@@ -14,23 +14,23 @@
 
 ## 🚀 Tecnologias
 
-HTML5 e CSS3
+• HTML5 e CSS3
 <br>
-JavaScript Vanilla (puro)
+• JavaScript Vanilla (puro)
 <br>
-Responsividade com Media Queries
+• Responsividade com Media Queries
 <br>
-Menu Hamburguer com animação suave
+• Menu Hamburguer com animação suave
 <br>
-Carrossel Automático
+• Carrossel Automático
 <br>
-Parallax Effect (CSS e JS)
+• Parallax Effect (CSS e JS)
 <br>
-Google Fonts (Poppins)
+• Google Fonts (Poppins)
 <br>
-Font Awesome Icons
+• Font Awesome Icons
 <br>
-Git e GitHub para versionamento
+• Git e GitHub para versionamento
 
 ## 💻 Projeto
 
@@ -39,10 +39,15 @@ O intuito deste projeto foi criar uma oportunidade de aprendizado, onde transfor
 O projeto conta com:
 
 •	Apresentação clara dos planos de assinatura para cortes de cabelo.
+<br>
 •	Exibição da estrutura e das comodidades oferecidas pela barbearia.
+<br>
 •	Navegação fluida com design visualmente atrativo.
-•	Totalmente responsivo, adaptando-se perfeitamente a celulares, tablets e desktops. 
+<br>
+•	Totalmente responsivo, adaptando-se perfeitamente a celulares, tablets e desktops.
+<br>
 •	Menu mobile no formato hambúrguer, garantindo uma experiência intuitiva em dispositivos móveis.
+<br>
 •	Carrossel automático destacando informações promocionais e serviços oferecidos.
 
 <h2>📌 Autor </h2>
