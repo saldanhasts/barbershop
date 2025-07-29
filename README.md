@@ -7,7 +7,7 @@ O site simula um modelo de negócio para barbearias, oferecendo planos, comodida
 <br>
 
 <p align="center">
-  <img alt="projeto DevMarcus" src="github/preview/preview.png" width="100%">
+  <img alt="projeto DevMarcus" src="/main/preview/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
