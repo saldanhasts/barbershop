@@ -1,6 +1,6 @@
 <h1 align="center"> ✂️ Barbearia Premium - Site de Assinatura </h1>
 
-<p align="center"> Desenvolvido após uma percepção de como muitos negócios locais, como por exemplo barbearias, ainda deixam de aproveitar o digital para atrair clientes.<br/>
+<p align="center"> Desenvolvido após uma percepção de como muitos negócios locais (barbearias), ainda deixam de aproveitar o digital para atrair clientes.<br/>
 </p>
 O site simula um modelo de negócio para barbearias, oferecendo planos, comodidades e um visual profissional para apresentar o serviço de forma elegante.
 
